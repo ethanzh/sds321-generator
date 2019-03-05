@@ -1,0 +1,6 @@
+ 6. Two cards are randomly selected from a set of regular playing cards.  
+ a) What is the probability that both cards are queens?  
+ b) What is the probability that the second card is a queen given the first was a 
+queen?  
+ c) What is the probability that the second card is a queen?
+ 
