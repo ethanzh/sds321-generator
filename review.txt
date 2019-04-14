@@ -1,44 +1,58 @@
- 1. What do you know about sets?
- a. {1,2} ! {2,3} =  b. {1,2} !
- {2,3} = c.  True
- or False
-: {{1,2}, {3}, {4,5}} is a partition of {1,2,3,4,5} 
-
- 2. How many 
-solutions are there to the equation x1 + x2 + x3 + x4 = 17, where x1, x2, x3, 
-x4 are non
--negative integers?
+ 6. How many different arrangemen
+ts can be made from the letters: (a) FLUKE  (b) 
+PROPOSE? The arrangements donÕt need to be real words.
  
- 3. How many different ways are there to choose a dozen donuts from the 21 varieties at a 
-donut shop? 
+ 9. In order to play a game of basketball, 10 children at a playground divide themselves into 
+two teams of 5 each. How many different divisions 
+are
+ possible?
  
- 7. A seed randomly blows around a complex habitat. It may land on any of three 
-different soil types: a high
--qualit
-y soil that gives a 0.8 chance of seed survival, a 
-medium
--quality soil that gives a 0.3 chance of survival, and a low
--quality soil that 
-gives only a 0.1 chance of survival. These three soil types (high, medium, and low) 
-are present in the habitat in propor
-tions of 30:20:50, respectively. The probability that 
-a seed lands on a particular soil type is proportional to the frequency of that type in 
-the habitat. Draw the probability tree. 
-  a) What is the probability that the seed lands in a low
--quality habitat and
- survives?
- b) What is the probability of survival of the seed, assuming it lands?
- c) If you know that a seed survived, what is the probability that it landed in a low
--quality environment?
-
- 1. Suppose an individual applying to a college determines that he has an 80% chance of 
-being accepted, and he knows that dormitory housing will only be provided for 60% 
-of all of the accepted students. 
-What is
- the probability of the student being accepted 
-and
- receiving dormitory housing.  
+ 11. In how many ways can 8 people be seated in a row if (a) there are no restrictions, (b) 
+persons A and B 
+must sit together, (c) A
+ and B 
+cannot sit next to each other?
  
+ 6. Two cards are randomly selected from a set of regular playing cards.  
+ a) What is the probability that both cards are queens?  
+ b) What is the probability that the second card is a queen given the first was a 
+queen?  
+ c) What is the probability that the second card is a queen?
+ 
+ 7. Given that P(
+Ac) = 0.5, P(
+B) = 0.4, and P(
+A 
+!
+ B) = 0.1, determine P(
+A ! B).  
+ 7. A police department in a small city consists of 10 officers. If the department policy is to 
+have 5 of the officers patrolling the streets, 2 of them wor
+king full
+-time at the station, and 
+3 of them on reserve at the station, how many different divisions of the 10 officers into 
+the 3 groups are possible?
+ 
+ 3. For an assessment, I plan to give an oral exam.  I prepare 20 cards
+ with 3 questions 
+each, one for each of 20 students who will randomly choose a card without 
+replacement.  By answering all 3 questions from an examination card drawn at 
+random you will earn an A. For you, there are 8 favorable cards for which you can 
+answe
+r all 3 questions. What is the probability you get an 
+A, 
+if:
+  a) You are the first to draw the card? 
+ b) You are the second to draw the card? 
+ c) You are the third to draw the card? 
+ d) Suppose you are the last student to go. What is your probability of getting an A i
+f you have no information on what cards the previous 19 students picked?
+ 
+ 4. Out of 100 coins one has heads on both sides. One coin is chosen at random and 
+flipped two times. What is the probability to get  
+  a) Two heads?
+  b) Two tails? 
+  
  9. Show that 
 P(A 
 ! B ! C) =   P(A) + P(B) + P(C) 
@@ -52,31 +66,9 @@ P(A
 !
  B !
  C) 
- 6. Given 
-P(A) = 0.55, P(Bc) = 0.35, and 
-P(A ! B) = 0.75, find
- P(B) and 
-P(A 
-!
- B). 
- 5. In #4
-, what if two of the men are feuding and refuse to serve on the committee together?
- 
- 6. Suppose a box contains four tickets labeled 112, 121, 211, 222. We choose a ticket at 
-random and consider the following events:
-  Ai ={1 occurs at the 
-ith place}
- for 
-i = 1, 2, 3
-  Are A
-1, A2, and A
-3 pairwise independent? Are they mutually independent?
+ 1. What do you know about sets?
+ a. {1,2} ! {2,3} =  b. {1,2} !
+ {2,3} = c.  True
+ or False
+: {{1,2}, {3}, {4,5}} is a partition of {1,2,3,4,5} 
 
- 3. An hexadecimal
- number is a number whose digits can take sixteen different values: either 
-one of the ten numbers from 0 to 9, or one of the six letters from A to F. How many 
-different 8
--digit hexadecimal numbers are there, if an hexadecimal number is allowed to 
-begin wit
-h any number of zeros?
- 

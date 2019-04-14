@@ -14,6 +14,9 @@ def extract_qs(text, current_question):
         start_loc = text.find(" " + str(current_question) + ".")
         end_loc = text.find(" " + str(current_question + 1) + ".")
         q = text[start_loc:end_loc]
+        if "!" in q:
+            print("this has an exclamation mark")
+            print(q)
         has_more = len(q) is not 0 
         if has_more:
             questions.append(q)
@@ -31,6 +34,7 @@ for pdf in pdfs:
         page_content = page.extractText()
         (these_qs, current_question) = extract_qs(page_content, current_question)
         all_qs.extend(these_qs)
+
 
 # implement resevoir sampling
 sample = []
